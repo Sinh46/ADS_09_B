@@ -10,7 +10,7 @@ Program Studi Teknik Informatika/Analisis Dan Desain Sistem
 
 1. Pendahuluan
 1.1 Tujuan
-
+Dokumen ini ditulis dalam rangka menjabarkan spesifikasi kebutuhan perangkat lunak yang akan digunakan oleh Universitas Negeri Malang. Penjabaran spesifikasi perangkat lunak meliputi deskripsi umum perangkat lunak dan deskripsi kebutuhan perangkat lunak. Perangkat lunak yang akan dibangun untuk Universitas Negeri Malang bernama Sistem Informasi Administrasi Kampus Satu Pintu. Dalam rangka membangun perangkat lunak tersebut, tentunya spesifikasi kebutuhan untuk perangkat lunak tersebut dibutuhkan, khususnya oleh para pengembang dan pembangun perangkat lunak tersebut.
 1.2 Ruang Lingkup Perangkat Lunak
 
 1.3 Target Audience
