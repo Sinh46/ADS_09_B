@@ -1,0 +1,17 @@
+Sistem Informasi Administrasi Satu Pintu Kampus
+(Document Management System – Document Tracking)
+
+Kebutuhan Fungsional
+-	Sistem menerima inputan berupa pengesian data surat dan scan surat.
+-	Terdapat menu tracking surat (mengetahui proses, status dll)
+-	Terdapat data surat masuk (pendistribusikan surat)
+-	Terdapat menu contoh format surat sesuai kebutuhan
+-	Sistem memiliki pendataan surat untuk rekap
+-	Terdapat menu layanan bantuan (helpdesk) 
+
+Kebutuhan Nonfungsional
+-	Admin harus selalu melakukan pembaharuan informasi surat setiap saat
+-	Admin dan user dapat melihat record surat
+-	Sistem melakukan update informasisetiap 15 menit sekali
+-	Proses pengisian data surat dan scan antar user dan sistem tidak lebih dari 2 menit (jika persyaratan lengkap)
+-	Waktu pemprosesan tidak lebih dari 2 hari 
