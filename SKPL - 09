@@ -9,39 +9,45 @@ Grup 09
 Program Studi Teknik Informatika/Analisis Dan Desain Sistem 
 
 1. Pendahuluan
+1.1 Tujuan
 
-Tujuan
+1.2 Ruang Lingkup Perangkat Lunak
 
-Ruang Lingkup Perangkat Lunak
+1.3 Target Audience
 
-Target Audience
+1.4 Definisi, Istilah dan Singkatan
 
-Definisi, Istilah dan Singkatan
+1.5 Sistem Penomoran
 
-Sistem Penomoran
+1.6 Referensi
 
-Referensi
-
-Ikhtisar Dokumen
+1.7 Ikhtisar Dokumen
 
 2. Deskripsi Umum
-
-Tentang Perangkat Lunak
+2.1 Tentang Perangkat Lunak
 - Sistem Informasi Administrasi Satu Pintu Kampus merupakan suatu sistem informasi berbasis web yang dapat memberikan informasi tentang distribusi surat – surat penting. Di dalam sistem informasi ini pengguna dapat melacak surat yang diajukan ke pada bagian tertentu. Pengguna dapat mengetahui informasi tata cara pengajuan surat dan format surat. Serta pengguna dapat mengajukan surat secara online dengan disertai syarat – syarat tertentu. Sistem ini dikelola oleh admin yang bertugas selalu mengupdate proses dan status surat. Admin juga wajib memberikan nomor surat yang nantinya akan digunakan pengaju surat untuk melacak surat yang diajukan.
 
-Fungsi-fungsi Perangkat Lunak
+2.2 Fungsi-fungsi Perangkat Lunak
 - Sistem Informasi Administrasi Satu Pintu ini berfungsi untuk memudahkan pengguna mengetahui status dan keadaan surat yang diajukan ke bagian tertentu. Karena terkadang surat tidak jelas keberadaannya dan pengguna harus selalu mengecek ketempat diajukannya surat untuk mengetahui status dan keadaan surat. Selain itu sistem informasi ini dapat memudahkan admin yang berperan sebagai penerima surat tangan pertama untuk mengatur dan menata surat – surat yang diajukan oleh pengguna. Sistem informasi ini juga dilengkapi dengan format surat yang dapat memudahkan pengguna menulis surat sesuai dengan kebutuhan surat akan diajukan ke bagian apa.
 
-Karakteristik dan Klasifikasi Pengguna
+2.3 Karakteristik dan Klasifikasi Pengguna
 - Pengguna dibagi menjadi tiga, yaitu: Guest, Admin, dan Intended
 - Guest dapat melihat tampilan web serta dapat melacak status dan kondisi surat.
 - Admin dapat mengupdate status dan kondisi surat serta dapat mengupload format surat
 - Intended dapat melihat surat – surat yang ditujukan kepadanya.
 
-Lingkungan Operasi
+2.4 Lingkungan Operasi
 
-Batasan Desain dan Implementasi
+2.5 Batasan Desain dan Implementasi
 
-Dokumentasi Bagi Pengguna
+2.6 Dokumentasi Bagi Pengguna
 
-Asumsi dan Ketergantungan
+2.7 Asumsi dan Ketergantungan
+
+3. Kebutuhan Antarmuka Eksternal
+   Sistem Informasi Administrasi Satu Pintu Kampus membutuhkan fasilitas-fasilitas antarmuka eksternal yaitu diantaranya:
+3.1 Antarmuka Pengguna
+
+3.2 Antarmuka Perangkat Lunak
+
+3.3 Antarmuka Komunikasi
