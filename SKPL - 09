@@ -24,12 +24,23 @@ No.	Element               Uraian
                           •	System sudah harus diaktifkan sebelum akhir semester genap 2017 - 2018
 
 2. Deskripsi Umum
+
 Tentang Perangkat Lunak
 - Sistem Informasi Administrasi Satu Pintu Kampus merupakan suatu sistem informasi berbasis web yang dapat memberikan informasi tentang distribusi surat – surat penting. Di dalam sistem informasi ini pengguna dapat melacak surat yang diajukan ke pada bagian tertentu. Pengguna dapat mengetahui informasi tata cara pengajuan surat dan format surat. Serta pengguna dapat mengajukan surat secara online dengan disertai syarat – syarat tertentu. Sistem ini dikelola oleh admin yang bertugas selalu mengupdate proses dan status surat. Admin juga wajib memberikan nomor surat yang nantinya akan digunakan pengaju surat untuk melacak surat yang diajukan.
+
 Fungsi-fungsi Perangkat Lunak
 - Sistem Informasi Administrasi Satu Pintu ini berfungsi untuk memudahkan pengguna mengetahui status dan keadaan surat yang diajukan ke bagian tertentu. Karena terkadang surat tidak jelas keberadaannya dan pengguna harus selalu mengecek ketempat diajukannya surat untuk mengetahui status dan keadaan surat. Selain itu sistem informasi ini dapat memudahkan admin yang berperan sebagai penerima surat tangan pertama untuk mengatur dan menata surat – surat yang diajukan oleh pengguna. Sistem informasi ini juga dilengkapi dengan format surat yang dapat memudahkan pengguna menulis surat sesuai dengan kebutuhan surat akan diajukan ke bagian apa.
+
 Karakteristik dan Klasifikasi Pengguna
 - Pengguna dibagi menjadi tiga, yaitu: Guest, Admin, dan Intended
 - Guest dapat melihat tampilan web serta dapat melacak status dan kondisi surat.
 - Admin dapat mengupdate status dan kondisi surat serta dapat mengupload format surat
 - Intended dapat melihat surat – surat yang ditujukan kepadanya.
+
+Lingkungan Operasi
+
+Batasan Desain dan Implementasi
+
+Dokumentasi Bagi Pengguna
+
+Asumsi dan Ketergantungan
