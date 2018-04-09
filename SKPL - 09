@@ -14,7 +14,7 @@ Dokumen ini ditulis dalam rangka menjabarkan spesifikasi kebutuhan perangkat lun
 1.2 Ruang Lingkup Perangkat Lunak
 Sistem Informasi Administrasi Kampus Satu Pintu adalah sebuah sistem informasi berbasis Web yang digunakan untuk pengelola administrasi kampus. Di dalam sistem penguna dapat melakukan tracking pada surat untuk mengetahui proses dan status surat selain itu melakukan perekapan surat dan terdapat format dari surat. Data dikelola oleh admin tetapi juga terdapat petugas offline untuk melakukan pendistribusian surat fisik.
 1.3 Target Audience
-
+Target dari sistem ini adalah masyarakat kampus dalam arti semua yang berada dalam kampus baik mahasiswa, pegawai dan masyarakat umum yang memiliki kebutuhan administrasi dalam kampus. 
 1.4 Definisi, Istilah dan Singkatan
 
 1.5 Sistem Penomoran
