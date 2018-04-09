@@ -1,15 +1,1 @@
-Sistem Informasi Administrasi Satu Pintu Kampus
 
-No.	Element               Uraian
-1.	Project Sponsor	      •	Rektor Universitas
-2.	Business Needs	      •	Mendistribusikan surat sesuai dengan yang dituju
-                          •	Memonitoring surat, proses surat, dan status surat
-                          •	Pendataan surat secara otomatis
-3.	Business Requirements	•	Fasilitas pencarian surat sesuai perihal dana atau bagian yang dituju
-                          •	Informasi format dan pengajuan surat
-                          •	Fasilitas pengajuan online
-4.	Business Value	      •	Kejelasan proses dan status surat (efek langsung)
-                          •	Waktu pemrosesan surat cukup 2 hari
-                          •	Proses surat selesai tepat waktu (efek tidak langsung)
-5.	Spesial Issues	      •	System dibangun berbasis teknologi responsive
-                          •	System sudah harus diaktifkan sebelum akhir semester genap 2017 - 2018
