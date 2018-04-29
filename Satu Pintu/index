@@ -1,1 +1,102 @@
+<!doctype html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Sistem Informasi Administrasi Satu Pintu</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="css/fontAwesome.css">
+        <link rel="stylesheet" href="css/tooplate-style.css">
+
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    </head>
+    <body>
+        
+
+        <section class="first-section">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <div class="text-content">
+                  <h2>Selamat Datang di</h2>
+				  <div class="line-dec"></div>
+				  <h3>Sistem Informasi Satu Pintu</h3>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="second-section">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-1 col-sm-6">
+                <div class="service-item">
+                  <div class="icon">
+                    <img src="img/first-icon.png" alt="">
+                  </div>
+                  <h4>Upload</h4>
+                  <p>Unggah Suratmu Disini!</p>
+                </div>
+              </div>
+              <div class="col-md-1 col-sm-6">
+                <div class="service-item">
+                  <div class="icon">
+                    <img src="img/second-icon.png" alt="">
+                  </div>
+                  <h4>Format</h4>
+                  <p>Tempat Kumpulan Format Surat.</p>
+                </div>
+              </div>
+              <div class="col-md-1 col-sm-6">
+                <div class="service-item">
+                  <div class="icon">
+                    <img src="img/third-icon.png" alt="">
+                  </div>
+                  <h4>Track</h4>
+                  <p>Lacak Status dan Kondisi Suratmu!</p>
+                </div>
+              </div>
+              <div class="col-md-1 col-sm-6">
+                <div class="service-item">
+                  <div class="icon">
+                    <img src="img/fourth-icon.png" alt="">
+                  </div>
+                  <h4>Help</h4>
+                  <p>Bantuan untuk penggunaan sistem informasi</p>
+                </div>
+              </div>
+			  <div class="col-md-1 col-sm-6">
+                <div class="service-item">
+                  <div class="icon">
+                    <img src="img/third-icon.png" alt="">
+                  </div>
+                  <h4>Login</h4>
+                  <p>Login Disini!</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="third-section">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-10 col-md-offset-1">
+                <div class="left-image col-md-4">
+                  <img src="img/left-image.png" alt="">
+                </div>
+                <div class="right-text col-md-8">
+                  <h4><em>Deskripsi</em><br>Satu Pintu</h4>
+                  <p>Sistem Informasi Administrasi Kampus Satu Pintu adalah sebuah sistem informasi berbasis Web yang digunakan untuk pengelola administrasi kampus. Di dalam sistem penguna dapat melakukan tracking pada surat untuk mengetahui proses dan status surat selain itu melakukan perekapan surat dan terdapat format dari surat. Data dikelola oleh admin tetapi juga terdapat petugas offline untuk melakukan pendistribusian surat fisik.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
