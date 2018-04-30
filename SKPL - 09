@@ -60,5 +60,8 @@ API : Application Programming Interface
     5. Tampilan Pelacak Surat masuk dengan menggunakan nomor surat
     6. Tampilan Help 
 3.2 Antarmuka Perangkat Lunak
-
+    Antarmuka perangkat lunak yang digunakan oleh perangkat lunak ini 
+    
 3.3 Antarmuka Komunikasi
+    Antarmuka komunikasi yang digunakan untuk mengoperasikan perangkat lunak antara
+lain :
