@@ -42,6 +42,24 @@ API : Application Programming Interface
 - Intended dapat melihat surat – surat yang ditujukan kepadanya.
 
 2.4 Lingkungan Operasi
+    Sistem informasi Administrasi Satu Pintu ini akan berfungsi dengan spesifikasi :
+    Server :
+    Komputer dengan spesifikasi hardware minimal sebagai berikut:
+    
+    
+    Komputer yang minimal telah terinstall software sebagai berikut:
+    - Browser Google Chrome atau Mozilla Firefox
+    - Word Processor
+    - PDF reader
+    
+    Client :
+    Komputer dengan spesifikasi hardware minimal sebagai berikut :
+    
+    
+    Komputer yang minimal telah terinstall software sebagai berikut :
+    - Browser Google Chrome atau Mozilla Firefox
+    - Word Processor
+    - PDF reader
 
 2.5 Batasan Desain dan Implementasi
 
