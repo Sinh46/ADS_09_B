@@ -63,23 +63,38 @@ API : Application Programming Interface
 
 2.5 Batasan Desain dan Implementasi
 
+
 2.6 Dokumentasi Bagi Pengguna
 
 2.7 Asumsi dan Ketergantungan
 
-3. Kebutuhan Antarmuka Eksternal
+3.1 Kebutuhan Antarmuka Eksternal
    Sistem Informasi Administrasi Satu Pintu Kampus membutuhkan fasilitas-fasilitas antarmuka eksternal yaitu diantaranya:
-3.1 Antarmuka Pengguna
-    Perangkat lunak yang dioperasikan pada Sistem Informasi Administrasi Satu Pintu Kampus, User interface yang digunakan di antaranya adalah :
-    1. Tampilan awal sistem informasi
-    2. Tampilan Login
-    3. Tampilan Format Surat
-    4. Tampilan Upload Surat
-    5. Tampilan Pelacak Surat masuk dengan menggunakan nomor surat
-    6. Tampilan Help 
-3.2 Antarmuka Perangkat Lunak
-    Antarmuka perangkat lunak yang digunakan oleh perangkat lunak ini 
+
+3.1.1 Antarmuka Pengguna
+      Perangkat lunak yang dioperasikan pada Sistem Informasi Administrasi Satu Pintu Kampus, User interface yang digunakan di antaranya adalah :
+      1. Tampilan awal sistem informasi
+      2. Tampilan Login
+      3. Tampilan Format Surat
+      4. Tampilan Upload Surat
+      5. Tampilan Pelacak Surat masuk dengan menggunakan nomor surat
+      6. Tampilan Help 
     
-3.3 Antarmuka Komunikasi
-    Antarmuka komunikasi yang digunakan untuk mengoperasikan perangkat lunak antara
-lain :
+3.1.2 Antarmuka Perangkat Lunak
+      Antarmuka perangkat lunak yang digunakan oleh perangkat lunak ini adalah sebagai berikut:
+      1. 
+      2.
+      
+3.1.3 Antarmuka Perangkat Keras
+      Antarmuka perangkat keras yang digunakan oleh perangkat lunak ini adalah sebagai berikut:
+      1. 
+      2.
+      
+3.1.4 Antarmuka Komunikasi
+      Antarmuka komunikasi yang digunakan untuk mengoperasikan perangkat lunak antara lain :
+      1.
+      2.
+      3. 
+      
+      
+      
