@@ -45,21 +45,42 @@ API : Application Programming Interface
     Sistem informasi Administrasi Satu Pintu ini akan berfungsi dengan spesifikasi :
     Server :
     Komputer dengan spesifikasi hardware minimal sebagai berikut:
-    
+    - Processor Intel Core i3 380M
+    - 2 GB RAM DDR3
+    - 2.53 GHz Intel Graphics HD3000-729MB
+    - Motherboard support internet connection
+    - NIC FastEthernet atau Gigabit Ethernet
+    - Power Supply
+    - Keyboard
+    - Monitor
+    - Mouse
     
     Komputer yang minimal telah terinstall software sebagai berikut:
     - Browser Google Chrome atau Mozilla Firefox
     - Word Processor
     - PDF reader
+    DBMS (Database Management System) minimal MySQL 4.9.5.6 ke atas
+    Koneksi internet dengan bandwidth minimal 5 Mbps
+    OS minimal Windows 2010 Server atau Ubuntu Server
     
     Client :
     Komputer dengan spesifikasi hardware minimal sebagai berikut :
-    
+    - Processor pentium dual core T4200
+    - 1 GB RAM DDR2
+    - 2.0 GHz Intel GMA 4500 268MB
+    - Motherboard support internet connection
+    - NIC FastEthernet atau Gigabit Ethernet
+    - Power Supply
+    - Keyboard
+    - Monitor
+    - Mouse
     
     Komputer yang minimal telah terinstall software sebagai berikut :
     - Browser Google Chrome atau Mozilla Firefox
     - Word Processor
     - PDF reader
+    Koneksi internet dengan bandwidth minimal 1 Mbps
+    OS minimal Windows 2007 ke atas
 
 2.5 Batasan Desain dan Implementasi
 
