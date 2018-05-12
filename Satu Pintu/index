@@ -36,7 +36,7 @@
         <section class="second-section">
           <div class="container">
             <div class="row">
-              <div class="col-md-1 col-sm-6">
+              <div class="col-md-2 col-sm-6">
                 <div class="service-item">
                   <div class="icon">
                     <img src="img/first-icon.png" alt="">
@@ -45,7 +45,7 @@
                   <p>Unggah Suratmu Disini!</p>
                 </div>
               </div>
-              <div class="col-md-1 col-sm-6">
+              <div class="col-md-2 col-sm-6">
                 <div class="service-item">
                   <div class="icon">
                     <img src="img/second-icon.png" alt="">
@@ -54,7 +54,7 @@
                   <p>Tempat Kumpulan Format Surat.</p>
                 </div>
               </div>
-              <div class="col-md-1 col-sm-6">
+              <div class="col-md-2 col-sm-6">
                 <div class="service-item">
                   <div class="icon">
                     <img src="img/third-icon.png" alt="">
@@ -63,7 +63,7 @@
                   <p>Lacak Status dan Kondisi Suratmu!</p>
                 </div>
               </div>
-              <div class="col-md-1 col-sm-6">
+              <div class="col-md-2 col-sm-6">
                 <div class="service-item">
                   <div class="icon">
                     <img src="img/fourth-icon.png" alt="">
@@ -72,10 +72,10 @@
                   <p>Bantuan untuk penggunaan sistem informasi</p>
                 </div>
               </div>
-			  <div class="col-md-1 col-sm-6">
+			  <div class="col-md-2 col-sm-6">
                 <div class="service-item">
                   <div class="icon">
-                    <img src="img/third-icon.png" alt="">
+                    <img src="img/fifth-icon.png" alt="">
                   </div>
                   <h4>Login</h4>
                   <p>Login Disini!</p>
@@ -100,7 +100,8 @@
             </div>
           </div>
         </section>
-	 <section class="fourth-section">
+		
+		 <section class="fourth-section">
           <div class="container">
             <div class="row">
               <div class="col-md-3 col-sm-6">
